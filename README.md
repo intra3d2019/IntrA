@@ -23,11 +23,21 @@ Geodesic distance matrices are computed and included for each annotated 3D segme
 
 ## Tools
 
-Annotation.
-
 ![](images/ann_tool.jpg)
 
-Vessel segment generation.
+### Annotation
+
+annotation/main.py
+
+### Vessel segment generation
+
+random_pick.py
+selection.py
+
+### Visualization
+
+show_ann_data.py
+show_result.py
 
 ## Benchmark
 
