@@ -7,4 +7,4 @@ The dataset could be download [here](https://drive.google.com/open?id=1QIKznnjWp
 We are grateful for adding your information on this [form](https://forms.gle/Ae2FFZLjYKVxKzas5), if you think this dataset is useful.
 Thank you!
 
-![](images/ann_tool.jpg=250x)
+![](images/ann_tool.jpg =250x)
