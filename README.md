@@ -9,4 +9,14 @@ The dataset could be download [here](https://drive.google.com/open?id=1QIKznnjWp
 We are grateful for adding your information on this [form](https://forms.gle/Ae2FFZLjYKVxKzas5), if you think this dataset is useful.
 Thank you!
 
-![](images/ann_tool.jpg)
+## Data
+
+![](types.png)
+
+103 3D models of entire brain vessels are collected by reconstructing scanned 2D MRA images of patients. We do not publish the raw 2D MRA images because of medical ethics. 
+
+1909 blood vessel segments are generated automatically from the complete models, including 1694 healthy vessel segments and 215 aneurysm segments for diagnosis. 
+
+116 aneurysm segments are divided and annotated manually by medical experts; the scale of each aneurysm segment is based on the need for a preoperative examination. 
+
+Geodesic distance matrices are computed and included for each annotated 3D segment, because the expression of the geodesic distance is more accurate than Euclidean distance according to the shape of vessels. 
