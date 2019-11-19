@@ -11,7 +11,7 @@ Thank you!
 
 ## Data
 
-![](types.png)
+![](images/types.png)
 
 103 3D models of entire brain vessels are collected by reconstructing scanned 2D MRA images of patients. We do not publish the raw 2D MRA images because of medical ethics. 
 
@@ -20,3 +20,19 @@ Thank you!
 116 aneurysm segments are divided and annotated manually by medical experts; the scale of each aneurysm segment is based on the need for a preoperative examination. 
 
 Geodesic distance matrices are computed and included for each annotated 3D segment, because the expression of the geodesic distance is more accurate than Euclidean distance according to the shape of vessels. 
+
+## Tools
+
+Annotation.
+
+![](images/ann_tool.jpg)
+
+Vessel segment generation.
+
+## Benchmark
+
+### Classification
+
+### Segmentation
+
+![](images/seg-results.png)
