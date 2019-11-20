@@ -55,7 +55,7 @@ show_result.py
 
 ### Classification
 
-<img src="images/cls-re.png" alt="ann_tool" align="middle" width="500"/>
+<img src="images/cls-re.png" alt="ann_tool" align="middle" width="400"/>
 
 ### Segmentation
 
