@@ -55,10 +55,10 @@ show_result.py
 
 ### Classification
 
-<img src="images/cls-re.png" alt="ann_tool" align="middle" width="800"/>
+<img src="images/cls-re.png" alt="ann_tool" align="middle" width="500"/>
 
 ### Segmentation
 
-![](images/seg-re.png)
+<img src="images/seg-re.png" alt="ann_tool" align="middle" width="800"/>
 
 ![](images/seg-results.png)
