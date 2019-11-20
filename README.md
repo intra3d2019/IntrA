@@ -24,6 +24,7 @@ Geodesic distance matrices are computed and included for each annotated 3D segme
 ## Tools
 
 ![](images/ann_tool.jpg)
+<img src="images/ann_tool.jpg" alt="drawing" width="200"/>
 
 ### Annotation
 
