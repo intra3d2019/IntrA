@@ -27,7 +27,9 @@ Geodesic distance matrices are computed and included for each annotated 3D segme
 
 <img src="images/ann_tool.jpg" alt="ann_tool" align="middle" width="600"/>
 
-""" annotation/main.py """
+'''
+annotation/main.py
+'''
 
 Add button: adding a boundary line.
 
