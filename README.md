@@ -23,12 +23,17 @@ Geodesic distance matrices are computed and included for each annotated 3D segme
 
 ## Tools
 
-![](images/ann_tool.jpg)
-<img src="images/ann_tool.jpg" alt="ann_tool" align="middle" width="400"/>
-
 ### Annotation
 
-annotation/main.py
+<img src="images/ann_tool.jpg" alt="ann_tool" align="middle" width="600"/>
+
+""" annotation/main.py """
+
+Add button: adding a boundary line.
+
+Left mouse button: selecting the points of a boundary line.
+
+Middle mouse button: selecting a start point.
 
 ### Vessel segment generation
 
