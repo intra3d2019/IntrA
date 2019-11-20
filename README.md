@@ -27,9 +27,9 @@ Geodesic distance matrices are computed and included for each annotated 3D segme
 
 <img src="images/ann_tool.jpg" alt="ann_tool" align="middle" width="600"/>
 
-'''
+```
 annotation/main.py
-'''
+```
 
 Add button: adding a boundary line.
 
@@ -39,13 +39,17 @@ Middle mouse button: selecting a start point.
 
 ### Vessel segment generation
 
+```
 random_pick.py
 selection.py
+```
 
 ### Visualization
 
+```
 show_ann_data.py
 show_result.py
+```
 
 ## Benchmark
 
