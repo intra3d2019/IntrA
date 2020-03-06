@@ -71,9 +71,9 @@ Please cite our paper if you use it.
 
 ```
 @InProceedings{yang2020intra,
-author = {Yang, Xi and Xia, Ding and Kin, Taichi and Igarashi, Takeo},
-title = {IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2020}
+  author = {Yang, Xi and Xia, Ding and Kin, Taichi and Igarashi, Takeo},
+  title = {IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020}
 }
 ```
