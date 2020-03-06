@@ -62,3 +62,5 @@ show_result.py
 <img src="images/seg-re.png" alt="ann_tool" align="middle" width="800"/>
 
 ![](images/seg-results.png)
+
+This work is accepted by CVPR 2020, camera-ready will be uploaded later.
