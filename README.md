@@ -63,4 +63,17 @@ show_result.py
 
 ![](images/seg-results.png)
 
+### Acknowledgements
+
+### Paper
+
 This work is accepted by CVPR 2020, camera-ready will be uploaded later.
+
+```
+@InProceedings{yang2020intra,
+author = {Yang, Xi and Xia, Ding and Kin, Taichi and Igarashi, Takeo},
+title = {IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+year = {2020}
+}
+```
