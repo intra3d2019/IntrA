@@ -68,6 +68,7 @@ show_result.py
 ### Paper
 
 This work is accepted by CVPR 2020, camera-ready will be uploaded later.
+
 Please cite our paper if you use it.
 
 ```
