@@ -1,6 +1,5 @@
 # News
 ```
-2020.02.23 One paper is accepted by CVPR 2020.
 ```
 
 # IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
