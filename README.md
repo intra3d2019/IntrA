@@ -1,6 +1,6 @@
 # News
 
-2020.03.02 Paper is uploaded to [arXiv](https://arxiv.org/abs/2003.02920)
+> 2020.03.02 Paper is uploaded to [arXiv](https://arxiv.org/abs/2003.02920).
 
 
 # IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning
