@@ -72,6 +72,8 @@ show_result.py
 
 ### Acknowledgements
 
+This research was supported by AMED under Grant Number JP18he1602001.
+
 ### Paper
 
 Please cite our paper if you use it.
