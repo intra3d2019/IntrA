@@ -1,6 +1,6 @@
 # News
 
-> 2020.04.06 [Paper} (https://arxiv.org/abs/2003.02920) is updated, and [Supplementary material](paper/supp.pdf  " ") is uploaded.
+> 2020.04.06 [Paper](https://arxiv.org/abs/2003.02920) is updated, and [Supplementary material](paper/supp.pdf  " ") is uploaded.
 
 > 2020.03.02 Paper is uploaded to [arXiv](https://arxiv.org/abs/2003.02920).
 
